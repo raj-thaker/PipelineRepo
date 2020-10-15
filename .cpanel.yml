@@ -1,5 +1,5 @@
 ---
 deployment:
   tasks:
-    - export DEPLOYPATH=/home/leocamq9/public_html/
+    - export DEPLOYPATH=/home/leocamq9/public_html/doora/GitTest
     - /bin/cp -R images $DEPLOYPATH
